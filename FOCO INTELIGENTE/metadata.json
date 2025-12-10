@@ -1,0 +1,5 @@
+{
+  "name": "ClapSwitch AI Hub",
+  "description": "Smart controller and documentation hub for ESP32 Rhythm-based Light Switch with Gemini AI assistance.",
+  "requestFramePermissions": []
+}
